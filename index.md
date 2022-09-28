@@ -1,6 +1,6 @@
 # Lab Reports:
 
-[Week 0](lab-report-1-week-0.html)
+[Week 0](https://mjarecky.github.io/cse15l-lab-reports/lab-report-1-week-0.html)
 
 ---
 
