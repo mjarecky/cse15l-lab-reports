@@ -9,7 +9,7 @@ My favorite hobbies include:
 * Rocketry
 * Sleeping (*I mean, who doesn't enjoy it.*)
 
-Another pasttime I enjoy is watching film. My top three films are:
+Another pastime I enjoy is watching film. My top three films are:
 1. *The Shawshank Redemption*
 2. *A Silent Voice (聲の形 : Koe no Katachi)*
 3. *How to Train Your Dragon*
