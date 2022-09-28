@@ -21,11 +21,11 @@ My favorite quote from *The Shawshank Redemption*. From Andy to Red:
 
 ## A Fascinating Programming Language:
 
-One day while I was browsing the internet, I stumbled across an esoteric programming language appropriately named Brainf*ck. (*I'll let you guess what the censored word is.*) To this day, I am still intrigued by this incredibly simple, yet mind-numbingly confusing language. I encourage you to check it out.
+One day while I was browsing the internet, I stumbled across an esoteric programming language appropriately named Brainf\*ck. (*I'll let you guess what the censored word is.*) To this day, I am still intrigued by this incredibly simple, yet mind-numbingly confusing language. I encourage you to check it out.
 
-[An introduction to and the basics of Brainf*ck.](https://gist.github.com/roachhd/dce54bec8ba55fb17d3a) --- *Don't worry, my skills are still less than the beginning level in this language.*
+[An introduction to and the basics of Brainf\*ck.](https://gist.github.com/roachhd/dce54bec8ba55fb17d3a) --- *Don't worry, my skills are still less than the beginning level in this language.*
 
-An exercise for the reader. Can you figure out what this Brainf*ck program prints?
+An exercise for the reader. Can you figure out what this Brainf\*ck program prints?
 ```
 >>>>++++++++++[<<<<+++++++>++++++++>+++++++++++>+++>-]
 <<<<++.>>---------.+++++++..+++.>++.<<+++++.<-----.>--.<+.>>>+.
