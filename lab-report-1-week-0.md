@@ -1,1 +1,1 @@
-![Image](C:\Users\Matthew\Documents\GitHub\cse15l-lab-reports\week0LabScreenshot.png)
+![Image](https://github.com/mjarecky/cse15l-lab-reports/blob/main/week0LabScreenshot.png)
