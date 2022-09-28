@@ -1,4 +1,10 @@
-# About Me:
+# Lab Reports:
+
+[Week 0](lab-report-1-week-0.html)
+
+---
+
+## About Me:
 
 Hello, my name is **Matthew Jarecky**. You may call me *Matt* or *Matthew*, I am fine with either.
 
