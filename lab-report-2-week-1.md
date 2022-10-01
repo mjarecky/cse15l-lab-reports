@@ -105,8 +105,8 @@ Your VScode window should contain something similar to the above image in it.
 
 <br>
 
-![](/part6.png)<br>
-Terminal(s) following execution of code on the remote server and client computer.
+![](/part6.png)
+<br>Terminal(s) following execution of code on the remote server and client computer.
 
 <br>
 
@@ -127,8 +127,8 @@ Terminal(s) following execution of code on the remote server and client computer
 
 <br>
 
-![](/part7.png)<br>
-Logging onto ieng6 with an `ssh` key. (*Notice no password is required*)
+![](/part7.png)
+<br>Logging onto ieng6 with an `ssh` key. (*Notice no password is required*)
 
 <br>
 
