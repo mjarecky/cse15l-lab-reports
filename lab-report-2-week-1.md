@@ -39,8 +39,8 @@ Screenshot of VScode open.
 
 <br>
 
-![](/part4.png)<br>
-A succesful connection to UCSD's ieng6 server.
+![](/part4.png)
+<br>A succesful connection to UCSD's ieng6 server.
 
 <br>
 
