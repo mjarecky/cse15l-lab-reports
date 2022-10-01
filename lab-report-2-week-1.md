@@ -37,7 +37,9 @@ Screenshot of VScode open.
 ![](/terminalOpen.png)
 * With VScode open, press **Ctrl or Command + `** or go to the **Terminal tab -> New Terminal** to open the terminal.
 
-![](/part4.png)
+<br>
+
+![](/part4.png)<br>
 A succesful connection to UCSD's ieng6 server.
 
 <br>
@@ -103,7 +105,7 @@ Your VScode window should contain something similar to the above image in it.
 
 <br>
 
-![](/part6.png)
+![](/part6.png)<br>
 Terminal(s) following execution of code on the remote server and client computer.
 
 <br>
@@ -125,7 +127,7 @@ Terminal(s) following execution of code on the remote server and client computer
 
 <br>
 
-![](/part7.png)
+![](/part7.png)<br>
 Logging onto ieng6 with an `ssh` key. (*Notice no password is required*)
 
 <br>
@@ -161,7 +163,4 @@ Commands combined in a single line to copy `WhereAmI.java` to the remote server 
 
 ---
 ## Conclusion:
-
-<br>
-
 From this guide you will be able to effectivly and efficiently connect to a remote server and execute programs that you create on your computer on the remote server.
