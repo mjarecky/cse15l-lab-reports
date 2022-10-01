@@ -2,6 +2,8 @@
 
 [Week 0](https://mjarecky.github.io/cse15l-lab-reports/lab-report-1-week-0.html)
 
+[Week 1](https://mjarecky.github.io/cse15l-lab-reports/lab-report-2-week-1.html)
+
 ---
 
 ## About Me:

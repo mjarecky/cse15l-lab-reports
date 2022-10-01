@@ -1,3 +1,3 @@
-## Week 0 Lab:
+# Week 0 Lab:
 
 ![](/week0LabScreenshot.png)
