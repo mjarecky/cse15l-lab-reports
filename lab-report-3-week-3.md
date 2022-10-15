@@ -5,11 +5,9 @@
 
 ## Part 1 - Search Engine:
 
----
-
 <br>
 
-**Code for SearchEngine class and handler:**
+### Code for SearchEngine class and handler:
 
 ```
 import java.io.IOException;
@@ -132,7 +130,7 @@ public class SearchEngine {
 
 <br>
 
-**SearchEngine.java running in browser:**
+### SearchEngine.java running in browser:
 
 ![](lab3_1.png)
 
@@ -174,11 +172,9 @@ If `/display` is typed at the end of the root URL, from the `handleRequest` meth
 
 ## Part 2 - Software Bugs:
 
----
-
 <br>
 
-**Bug in `reversed` method in ArrayExamples.java:**
+### Bug in `reversed` method in ArrayExamples.java:
 
 ![](lab3_5.png)
 
@@ -200,7 +196,7 @@ The bug in this method is illustrated in the commented text on the left side of 
 
 <br><br>
 
-**Bug in `merge` method in ListExamples.java:**
+### Bug in `merge` method in ListExamples.java:
 
 ![](lab3_7.png)
 
