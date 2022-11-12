@@ -6,6 +6,8 @@
 
 [Week 3](https://mjarecky.github.io/cse15l-lab-reports/lab-report-3-week-3.html)
 
+[Week 5](https://mjarecky.github.io/cse15l-lab-reports/lab-report-4-week-5.html)
+
 ---
 
 ## About Me:
